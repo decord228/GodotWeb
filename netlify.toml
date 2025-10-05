@@ -1,0 +1,4 @@
+[[redirects]]
+  from = "/"
+  to = "/discordweb.html"
+  status = 200
