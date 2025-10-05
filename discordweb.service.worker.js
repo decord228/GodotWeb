@@ -4,7 +4,7 @@
 // Incrementing CACHE_VERSION will kick off the install event and force
 // previously cached resources to be updated from the network.
 /** @type {string} */
-const CACHE_VERSION = '1759696269|14145489909';
+const CACHE_VERSION = '1759696511|14386900116';
 /** @type {string} */
 const CACHE_PREFIX = 'DiscordWeb-sw-cache-';
 const CACHE_NAME = CACHE_PREFIX + CACHE_VERSION;
