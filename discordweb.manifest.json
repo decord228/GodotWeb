@@ -1,0 +1,1 @@
+{"background_color":"#000000","display":"standalone","icons":[{"sizes":"144x144","src":"discordweb.144x144.png","type":"image/png"},{"sizes":"180x180","src":"discordweb.180x180.png","type":"image/png"},{"sizes":"512x512","src":"discordweb.512x512.png","type":"image/png"}],"name":"DiscordWeb","orientation":"any","start_url":"./discordweb.html"}
